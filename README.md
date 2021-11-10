@@ -16,6 +16,8 @@
 - Солопов Егор (Контент-менеджер, тестировщик)
 
 
+
+
 ## Ссылки
 - [Miro](https://miro.com/app/board/o9J_lNnc278=/)
 - [Trello](https://trello.com/b/hU14p07s/expressfood)
